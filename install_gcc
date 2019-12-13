@@ -1,0 +1,7 @@
+需要安装  
+
+1. gcc_linux-64
+2. gcc_linux-64 
+最终会自带安装 gcc_impl_linux-64   _libgcc_mutex 
+
+解决报 gcc 的问题
